@@ -2,10 +2,6 @@
 
 MedPredict is a web application that predicts the medical insurance charges for individuals based on factors such as age, BMI, smoking status, and more. This project uses machine learning to provide accurate predictions to users and is built using **Streamlit** for the user interface and **RandomForestRegressor** for the model.
 
-## Team Members
-
-- **Vidun**: Developer
-- **kavindu**: Developer
 
 ## Model Performance
 
