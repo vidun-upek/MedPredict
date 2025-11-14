@@ -21,12 +21,12 @@ The final model performance is as follows:
 3. **Create a virtual environment and activate it**:
     python -m venv venv
 
-On Windows:
-venv\Scripts\activate
+   On Windows:
+   venv\Scripts\activate
 
 
-On macOS/Linux:
-source venv/bin/activate
+   On macOS/Linux:
+   source venv/bin/activate
 
 4.**Install the required libraries**:
     pip install -r requirements.txt
