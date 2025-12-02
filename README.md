@@ -3,27 +3,27 @@ MedPredict - Medical Cost Prediction 🏥
 MedPredict is a web application designed to predict medical insurance charges for individuals. It utilizes machine learning to offer accurate cost estimations based on several personal and health-related factors.
 
 💻 Key Technologies
-User Interface (UI): Built using Streamlit.
+   User Interface (UI): Built using Streamlit.
 
-Machine Learning Model: The predictions are powered by a RandomForestRegressor.
+   Machine Learning Model: The predictions are powered by a RandomForestRegressor.
 
 📈 Prediction Factors
-The application takes into account various factors to generate a prediction, including:
+   The application takes into account various factors to generate a prediction, including:
 
-Age
+   Age
 
-BMI (Body Mass Index)
+   BMI (Body Mass Index)
 
-Smoking status
+   Smoking status
 
-And more
+   And more
 
 ✨ Model Performance
-The final machine learning model exhibits the following performance metrics:
+   The final machine learning model exhibits the following performance metrics:
 
-R-squared: 0.86
+   R-squared: 0.86
 
-Root Mean Squared Error (RMSE): $$300$
+   Root Mean Squared Error (RMSE): $$300$
 
 ## How to Run the Project
 
